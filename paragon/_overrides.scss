@@ -2,6 +2,6 @@
 // This file is included after all Paragon styles, but should generally avoid using private mixins in Paragon.
 
 // header learners dashboard
-header.d-flex.shadow-sm.align-items-center.learner-variant-header.pl-4 {
+#root .learner-variant-header {
     background: #e96828 !important;
 }
